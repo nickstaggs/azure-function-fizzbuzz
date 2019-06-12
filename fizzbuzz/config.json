@@ -1,0 +1,6 @@
+{
+    "numWords" : [ 
+        {"num":3, "word": "fizz"},
+        {"num":5, "word": "buzz"}
+    ]
+}
